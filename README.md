@@ -1,8 +1,6 @@
 # Momento
 
-Simple photo-sharing social media platform
-
-### [Live Demo](https://momentoapp.emuel.me)
+Simple photo-sharing social media platform built with LAMP Stack & Bootstrap
 
 ---
 
